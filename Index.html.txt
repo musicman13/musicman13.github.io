@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Annotation Page</h1>
+<p><a href="Annotation.html"> Biology Annotations</href></p>
+</body>
+</html>
